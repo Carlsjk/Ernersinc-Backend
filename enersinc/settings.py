@@ -24,8 +24,9 @@ SECRET_KEY = 'ehz@4p&v1p5f3+$eongx1tck#&q0e$%r*gotb4x5m5%bo6*d6u'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-ALLOWED_HOSTS = []
+CORS_ORIGIN_ALLOW_ALL = True
+#ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["jhonatanxramirez.pythonanywhere.com"]
 
 
 # Application definition
