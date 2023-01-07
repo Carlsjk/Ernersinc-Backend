@@ -28,8 +28,7 @@ SECRET_KEY = 'ehz@4p&v1p5f3+$eongx1tck#&q0e$%r*gotb4x5m5%bo6*d6u'
 DEBUG = True
 CORS_ORIGIN_ALLOW_ALL = True
 #ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ["jhonatanxramirez.pythonanywhere.com"]
-
+ALLOWED_HOSTS = ["jhonatanxramirez.pythonanywhere.com",'localhost',"127.0.0.1"]
 
 # Application definition
 
