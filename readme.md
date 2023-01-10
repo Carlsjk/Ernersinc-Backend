@@ -5,7 +5,7 @@ Versión django: `3.1.7`
 
 #### Configuración del proyecto (Linux/Windows)
 
-git clone https://github.com/Rojas-Andres/challenge_michael_page
+git clone https://github.com/Carlsjk/Ernersinc-Backend
 cd challenge_michael_page
 
 ### Cree virtulenv
